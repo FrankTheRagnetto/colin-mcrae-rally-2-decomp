@@ -1,0 +1,3 @@
+# name	words	flags (gcc 2.8.1 PSX + maspsx --dont-expand-li)
+func_8005BC98	13	-O2 -G0
+func_8005BF0C	35	-O2 -G8
